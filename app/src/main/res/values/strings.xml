@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">EntregaEjercicioExamen</string>
+    <string name="introduce_palabras">Introduce palabras</string>
+    <string name="iniciar">Iniciar</string>
+    <string name="invertir_orden">Invertir orden</string>
+    <string name="duplicar_vocales">Duplicar Vocales</string>
+    <string name="reemplazar_vocal">Reemplazar vocal</string>
+</resources>
